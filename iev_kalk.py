@@ -20,3 +20,4 @@ ievarijuma_masa = xy[1]
 Preces(cukura_masa)
 
 print()
+ 
